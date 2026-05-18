@@ -1,4 +1,4 @@
-<a href="https://github.com/julyellens-w5i">
+<a href="https://github.com/dev-julyellens">
     <img src="https://raw.githubusercontent.com/joaopauloaramuni/joaopauloaramuni/main/img/header_aramuni.png" alt="Header" />
 </a>
 
@@ -18,8 +18,8 @@
 <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/graphic.gif?raw=true"/>GitHub Stats
 
 <div>
-        <img height="185em" src="https://github-readme-stats.vercel.app/api?username=julyellens-w5i&count_private=true&show_icons=true&theme=midnight-purple">
-        <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julyellens-w5i&count_private=true&hide_progress=true&theme=midnight-purple">
+        <img height="185em" src="https://github-readme-stats.vercel.app/api?username=dev-julyellens&count_private=true&show_icons=true&theme=midnight-purple">
+        <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-julyellens&count_private=true&hide_progress=true&theme=midnight-purple">
 </div>
 
 <!--imagens formas de contato-->
