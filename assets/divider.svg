@@ -1,12 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="4" viewBox="0 0 1200 4" role="img" aria-label="Divisor">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="4" viewBox="0 0 1200 4" role="img"
+  aria-label="Divisor">
   <defs>
     <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#6E23DE" stop-opacity="0"/>
-      <stop offset="20%" stop-color="#6E23DE"/>
-      <stop offset="50%" stop-color="#00D4AA"/>
-      <stop offset="80%" stop-color="#6E23DE"/>
-      <stop offset="100%" stop-color="#6E23DE" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#6E23DE" stop-opacity="0" />
+      <stop offset="20%" stop-color="#6E23DE" />
+      <stop offset="50%" stop-color="#00D4AA" />
+      <stop offset="80%" stop-color="#6E23DE" />
+      <stop offset="100%" stop-color="#6E23DE" stop-opacity="0" />
     </linearGradient>
   </defs>
-  <rect width="1200" height="4" rx="2" fill="url(#g)"/>
+  <rect width="1200" height="4" rx="2" fill="url(#g)" />
 </svg>
