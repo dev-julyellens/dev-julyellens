@@ -19,6 +19,9 @@ jobs:
     timeout-minutes: 5
 
     steps:
+      - name: checkout
+        uses: actions/checkout@v4
+
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk@v3
         id: snake-gif
@@ -29,8 +32,9 @@ jobs:
             dist/github-contribution-grid-snake.svg?palette=github-dark
 
       - name: reduz velocidade da cobrinha
-        run: |
-          node -e "const fs=require('fs');const p='dist/github-contribution-grid-snake.svg';const t=fs.readFileSync(p,'utf8');fs.writeFileSync(p,t.replace(/(animation:none(?: linear)? )(\d+)ms/g,(_,prefix,ms)=>prefix+(Number(ms)*2)+'ms'));"
+        env:
+          SNAKE_SPEED_MULTIPLIER: '2'
+        run: node scripts/slow-snake.js
 
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v4
