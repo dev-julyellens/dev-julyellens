@@ -11,7 +11,7 @@
 Desenvolvedora com foco em **sistemas corporativos**, **ERP**, integrações e APIs. Trabalho com PHP, Node.js, React e bancos relacionais, priorizando código limpo, performance e entregas com impacto no negócio.
 
 - 🎓 **Formação:** Análise e Desenvolvimento de Sistemas
-- 📚 **Pós-graduação:** MBA em Engenharia de Software *(em andamento)*
+- 📚 **Pós-graduação:** Engenharia de Software *(em andamento)*
 - 📍 **Local:** Salvador, BA
 
 <img height="20" alt="" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/graphic.gif?raw=true" /> **GitHub Stats**
