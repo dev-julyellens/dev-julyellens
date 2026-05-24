@@ -62,9 +62,5 @@ Desenvolvedora com foco em **sistemas corporativos**, **ERP**, integrações e A
 <img src="assets/divider.svg" width="100%" alt="" />
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dev-julyellens/dev-julyellens/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dev-julyellens/dev-julyellens/output/github-contribution-grid-snake.svg" />
-    <img alt="Contribuições no GitHub em formato de cobrinha" src="https://raw.githubusercontent.com/dev-julyellens/dev-julyellens/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <img alt="Contribuições no GitHub em formato de cobrinha" src="https://raw.githubusercontent.com/dev-julyellens/dev-julyellens/output/github-contribution-grid-snake.svg" />
 </div>
