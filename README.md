@@ -1,57 +1,56 @@
 <a href="https://github.com/dev-julyellens">
-    <img src="https://raw.githubusercontent.com/joaopauloaramuni/joaopauloaramuni/main/img/header_aramuni.png" alt="Header" />
+  <img src="https://raw.githubusercontent.com/joaopauloaramuni/joaopauloaramuni/main/img/header_aramuni.png" alt="Julyellen Santos — desenvolvedora de software" />
 </a>
 
-<!-- linha gradiente -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1010">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 
-<!--Hello my namee is-->
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6e23de&size=45&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Julyellen+Santos!;Eu+sou+Desenvolvedora+de+Sistemas;+Seja+bem+vindo(a)!;)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1200&color=6E23DE&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Julyellen+Santos;Desenvolvedora+Web+PHP+%7C+ERP+e+integrações;Bem-vindo(a)+ao+meu+perfil!)
 
-<!-- linha gradiente -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1010">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 
-- 🎓 Formação: Análise e Desenvolvimento de Sistemas
-- 🌱 Estudando: MBA em WEB 3.0
+Desenvolvedora com foco em **sistemas corporativos**, **ERP**, integrações e APIs. Trabalho com PHP, Node.js, React e bancos relacionais, priorizando código limpo, performance e entregas com impacto no negócio.
 
-<!--git stats-->
-<img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/graphic.gif?raw=true"/>GitHub Stats
+- 🎓 **Formação:** Análise e Desenvolvimento de Sistemas
+- 📚 **Pós-graduação:** MBA em Engenharia de Software *(em andamento)*
+- 📍 **Local:** Salvador, BA
 
-<div>
-        <img height="185em" src="https://github-readme-stats.vercel.app/api?username=dev-julyellens&count_private=true&show_icons=true&theme=midnight-purple">
-        <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-julyellens&count_private=true&hide_progress=true&theme=midnight-purple">
+<img height="20" alt="" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/graphic.gif?raw=true" /> **GitHub Stats**
+
+<div align="center">
+  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=dev-julyellens&count_private=true&show_icons=true&theme=midnight-purple" alt="Estatísticas do GitHub" />
+  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-julyellens&count_private=true&hide_progress=true&theme=midnight-purple" alt="Linguagens mais usadas" />
 </div>
 
-<!--imagens formas de contato-->
-<div>
-        <!--imagem instagram-->
-        <a href="https://www.instagram.com/julyellens/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-        <!--imagem gmail-->
-        <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=julyellensantos1818@gmail.com&su=&body="><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-        <!--imagem linkedin-->
-        <a href="https://www.linkedin.com/in/julyellens/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-        <!--imagem linkedin-->
-        <a href="https://wa.me/5571996379531"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-        <br><br>
+**Contato**
+
+<div align="center">
+  <a href="https://portfolio.jcssolutions.com.br" target="_blank"><img src="https://img.shields.io/badge/Portfólio-00D4AA?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio" /></a>
+  <a href="https://www.linkedin.com/in/julyellens/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=julyellens.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
+  <a href="https://wa.me/5571996379531" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="https://www.instagram.com/julyellens/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </div>
 
-<!--Linguagens e ferramentas-->
-<img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/skills.gif?raw=true"/>&nbsp;Tecnologias:
-<div style="display: inline_block"><br> 
-        <img align="center" alt="July-HTML" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-        <img align="center" alt="July-CSS" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-        <img align="center" alt="July-javascript" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
-        <img align="center" alt="July-bootstrap" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" />
-        <img align="center" alt="July-cplusplus" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-        <img align="center" alt="July-java" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-        <img align="center" alt="July-spring" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
-        <img align="center" alt="July-PHP" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-        <img align="center" alt="July-react" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
-        <img align="center" alt="July-node" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />
-        <img align="center" alt="July-mysql" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-        <img align="center" alt="July-postgres" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" />
-        <img align="center" alt="July-sqlserver" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
-        <img align="center" alt="July-vscode" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" />
-        <img align="center" alt="July-eclipse" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
-</div> 
-<br><br>
+<br />
+
+<img height="20" alt="" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/skills.gif?raw=true" /> **Tecnologias**
+
+<div align="center">
+  <img align="center" alt="HTML5" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img align="center" alt="CSS3" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img align="center" alt="JavaScript" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+  <img align="center" alt="Bootstrap" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" />
+  <img align="center" alt="C++" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+  <img align="center" alt="Java" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+  <img align="center" alt="Spring" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
+  <img align="center" alt="PHP" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+  <img align="center" alt="React" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
+  <img align="center" alt="Node.js" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />
+  <img align="center" alt="MySQL" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="PostgreSQL" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" />
+  <img align="center" alt="SQL Server" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+  <img align="center" alt="VS Code" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" />
+  <img align="center" alt="Eclipse" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
+</div>
+
+<br />
