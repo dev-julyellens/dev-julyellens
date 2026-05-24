@@ -20,8 +20,7 @@ jobs:
 
     steps:
       - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk@v3
-        id: snake-gif
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: dev-julyellens
           github_token: ${{ secrets.GITHUB_TOKEN }}
