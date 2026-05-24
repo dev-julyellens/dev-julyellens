@@ -30,19 +30,7 @@ jobs:
 
       - name: reduz velocidade da cobrinha
         run: |
-          python - <<'PY'
-          import re
-          from pathlib import Path
-
-          path = Path("dist/github-contribution-grid-snake.svg")
-          text = path.read_text(encoding="utf-8")
-          slower = re.sub(
-              r"animation:none (\d+)ms",
-              lambda match: f"animation:none {int(match.group(1)) * 2}ms",
-              text,
-          )
-          path.write_text(slower, encoding="utf-8")
-          PY
+          node -e "const fs=require('fs');const p='dist/github-contribution-grid-snake.svg';const t=fs.readFileSync(p,'utf8');fs.writeFileSync(p,t.replace(/(animation:none(?: linear)? )(\d+)ms/g,(_,prefix,ms)=>prefix+(Number(ms)*2)+'ms'));"
 
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v4
