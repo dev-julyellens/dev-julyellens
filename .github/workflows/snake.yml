@@ -35,7 +35,7 @@ jobs:
           const svg = fs.readFileSync(file, 'utf8');
           const slower = svg.replace(
             /(animation:none(?: linear)? )(\d+)ms/g,
-            (_, prefix, ms) => `${prefix}${Number(ms) * 2}ms`,
+            (_, prefix, ms) => `${prefix}${Math.round(Number(ms) * 1.5)}ms`,
           );
           fs.writeFileSync(file, slower);
           NODE
