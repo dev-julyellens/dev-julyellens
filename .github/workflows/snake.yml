@@ -30,7 +30,16 @@ jobs:
 
       - name: reduz velocidade da cobrinha
         run: |
-          perl -i -pe 's/(animation:none(?: linear)? )(\d+)ms/$1 . ($2 * 2) . "ms"/ge' dist/github-contribution-grid-snake.svg
+          node <<'NODE'
+          const fs = require('fs');
+          const file = 'dist/github-contribution-grid-snake.svg';
+          const svg = fs.readFileSync(file, 'utf8');
+          const slower = svg.replace(
+            /(animation:none(?: linear)? )(\d+)ms/g,
+            (_, prefix, ms) => `${prefix}${Number(ms) * 2}ms`,
+          );
+          fs.writeFileSync(file, slower);
+          NODE
 
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v4
