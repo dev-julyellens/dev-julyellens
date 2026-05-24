@@ -1,12 +1,16 @@
-<a href="https://github.com/dev-julyellens">
-  <img src="https://raw.githubusercontent.com/joaopauloaramuni/joaopauloaramuni/main/img/header_aramuni.png" alt="Julyellen Santos — desenvolvedora de software" />
+<a href="https://portfolio.jcssolutions.com.br" target="_blank">
+  <img src="assets/workspace-hero.png" alt="Julyellen Santos — desenvolvedora de software em seu workspace" width="100%" />
 </a>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
+<img src="assets/divider.svg" width="100%" alt="" />
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1200&color=6E23DE&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Julyellen+Santos;Desenvolvedora+Web+PHP+%7C+ERP+e+integrações;Bem-vindo(a)+ao+meu+perfil!)
+<div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1200&color=6E23DE&center=true&vCenter=true&width=900&lines=Olá,+eu+sou+Julyellen+Santos;Desenvolvedora+Web+PHP+%7C+ERP+e+integrações;Bem-vindo(a)+ao+meu+perfil!)
+
+</div>
+
+<img src="assets/divider.svg" width="100%" alt="" />
 
 Desenvolvedora com foco em **sistemas corporativos**, **ERP**, integrações e APIs. Trabalho com PHP, Node.js, React e bancos relacionais, priorizando código limpo, performance e entregas com impacto no negócio.
 
@@ -14,7 +18,9 @@ Desenvolvedora com foco em **sistemas corporativos**, **ERP**, integrações e A
 - 📚 **Pós-graduação:** Engenharia de Software *(em andamento)*
 - 📍 **Local:** Salvador, BA
 
-<img height="20" alt="" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/graphic.gif?raw=true" /> **GitHub Stats**
+<img src="assets/divider.svg" width="100%" alt="" />
+
+**GitHub Stats**
 
 <div align="center">
   <img height="185em" src="https://github-readme-stats.vercel.app/api?username=dev-julyellens&count_private=true&show_icons=true&theme=midnight-purple" alt="Estatísticas do GitHub" />
@@ -31,9 +37,9 @@ Desenvolvedora com foco em **sistemas corporativos**, **ERP**, integrações e A
   <a href="https://www.instagram.com/julyellens/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </div>
 
-<br />
+<img src="assets/divider.svg" width="100%" alt="" />
 
-<img height="20" alt="" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/skills.gif?raw=true" /> **Tecnologias**
+**Tecnologias**
 
 <div align="center">
   <img align="center" alt="HTML5" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
@@ -53,4 +59,12 @@ Desenvolvedora com foco em **sistemas corporativos**, **ERP**, integrações e A
   <img align="center" alt="Eclipse" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
 </div>
 
-<br />
+<img src="assets/divider.svg" width="100%" alt="" />
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dev-julyellens/dev-julyellens/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dev-julyellens/dev-julyellens/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribuições no GitHub em formato de cobrinha" src="https://raw.githubusercontent.com/dev-julyellens/dev-julyellens/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
